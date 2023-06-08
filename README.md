@@ -19,3 +19,6 @@ this is a instagram scraper using selenium
 #### 1.`script.py` is used to scrape the instagram in the files you have to provide your login credentials as the scraper uses your credentials to login in to your account and then scrape the data it stores all the scraped files in the files folder
 #### 2. `cleanser.py` this files writes the account names with the likes and comments greater than the values specified in list.txt
 #### 3. `list.txt` write the values like `200,100` where 200 is number of likes and 100 is number of comments.The cleanser.py uses this files as reference and writes the names of the accounts who reels have minimum number of likes and comments as specified in the list.txt
+#### 4. `names.txt` this file contains the fields the scraper inputs in the instagram search field so if you want any specific words or names you can input it here or else just write random `a,b,c,d,e,f` etc.. letters.
+#### 5. `output.txt` this file contains the account names written by cleanser.py
+#### 6. `requirements.txt` this file contains all the modules used in the program install all the modules before running any script
