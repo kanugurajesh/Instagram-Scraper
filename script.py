@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 import time
 
 # username and password
-username = "6281768263"
-password = "Alexander@108"
+username = ""
+password = ""
 
 count = 0
 # maximum numbers of users you want to scrape
