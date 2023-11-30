@@ -1,4 +1,4 @@
-# instagram_scraper
+# Instagram Scraper
 this is a instagram scraper using selenium
 
 # setup in linux
