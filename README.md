@@ -1,5 +1,5 @@
 # Instagram Scraper
-this is a instagram scraper using selenium
+Use this instagram scraper
 
 # setup in linux
 #### 1.clone the repo
@@ -22,3 +22,25 @@ this is a instagram scraper using selenium
 #### 4. `names.txt` this file contains the fields the scraper inputs in the instagram search field so if you want any specific words or names you can input it here or else just write random `a,b,c,d,e,f` etc.. letters.
 #### 5. `output.txt` this file contains the account names written by cleanser.py
 #### 6. `requirements.txt` this file contains all the modules used in the program install all the modules before running any script
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exploringengin1)
+
+## Tech Stack
+
+- Python
+- Selenium
+  
+## Authors
+
+- [@kanugurajesh](https://github.com/kanugurajesh)
+
+## Support
+
+For support, you can buy me a coffee
+
+<a href="https://www.buymeacoffee.com/kanugurajen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kanugurajesh/Image-Classification/blob/main/LICENSE.txt)
